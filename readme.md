@@ -4,17 +4,22 @@
 
 > CLI to clean up HTML output from Microsoft Word
 
+Based on:
+
+- [wordsoap](https://github.com/metaraine/wordsoap)
+- [wordsoap-regexp](https://github.com/metaraine/wordsoap-regexp)
 
 ## Install
 
 ```sh
-$ npm install --save wordsoap-cli
+$ npm install -g wordsoap-cli
 ```
 
 
 ## Usage
 
-```js
+```sh
+$ cat msword_garbage.html | wordsoap
 ```
 
 
