@@ -1,6 +1,6 @@
 {
   "name": "wordsoap-cli",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "CLI to clean up HTML output from Microsoft Word",
   "license": "MIT",
   "repository": "metaraine/wordsoap-cli",
